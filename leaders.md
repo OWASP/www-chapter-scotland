@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
+* [Sean Wright](mailto://sean.wright@owasp.org)
+* [Rob Jansson](mailto://rob.jansson@owasp.org)
