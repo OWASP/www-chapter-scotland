@@ -10,7 +10,7 @@ region: Europe
 
 ---
 
-Welcome to the OWASP Scotland Chapter page. The chapter is lead by <a href="mailto:sean.wright@owasp.org">Sean Wright</a> and <a href="mailto:rob.jansson@owasp.org">Rob Jansson</a>. Please follow us on [Twitter](https://twitter.com/OWASPScotland) for our latest updates as well as [Eventbrite](https://www.eventbrite.co.uk/o/owasp-scotland-12914448732).
+Welcome to the OWASP Scotland Chapter page. The chapter is lead by <a href="mailto:sean.wright@owasp.org">Sean Wright</a> and <a href="mailto:rob.jansson@owasp.org">Rob Jansson</a>. Please follow us on [Twitter](https://twitter.com/OWASPScotland) for our latest updates as well as [Eventbrite](https://www.eventbrite.co.uk/o/owasp-scotland-12914448732). Alternatively signup to our [OWASP Scotland Google Group](https://groups.google.com/a/owasp.org/forum/#!forum/scotland-chapter).
 
 # Events
 

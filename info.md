@@ -1,6 +1,6 @@
 ### Scotland Information
 * [Become an OWASP Member](https://www.owasp.org/index.php/Membership)
-* [Join Our Mailing List](https://groups.google.com/a/owasp.org/forum/#!forum/london-scotland)
+* [Join Our Mailing List](https://groups.google.com/a/owasp.org/forum/#!forum/scotland-chapter)
 * [Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement)
 * [Code of Conduct](https://www.owasp.org/index.php/Governance/Conference_Policies)
 
