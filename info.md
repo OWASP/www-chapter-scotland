@@ -12,4 +12,4 @@
 * [Chapter Site Pages](https://github.com/OWASP/www-chapter-scotland/)
 
 ### Change Log
-* [changes](https://github.com/OWASP/www-chapter-scotland/commits/master)
+* [Changes](https://github.com/OWASP/www-chapter-scotland/commits/master)
