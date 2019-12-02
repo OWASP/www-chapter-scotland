@@ -1,21 +1,19 @@
 ---
 
 layout: col-sidebar
-title: OWASP scotland
-tags: example-tag
+title: OWASP Scotland
+tags: scotland
 level: 4
+currency: gbp
 
 region: Europe
 
 ---
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+OWASP Scotland
+---------------
+Welcome to the OWASP Scotland Chapter page. The chapter is lead by <a href="mailto:sean.wright@owasp.org">Sean Wright</a> and <a href="mailto:rob.jansson@owasp.org">Rob Jansson</a>. Please follow us on [Twitter](https://twitter.com/OWASPScotland) for our latest updates as well as [Eventbrite](https://www.eventbrite.co.uk/o/owasp-scotland-12914448732).
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
-
+Code of Conduct
+----------------
+We hope you enjoy our events, we care deeply about inclusivity and diversity so that OWASP is a comfortable and welcoming community for everyone. Please reach out to one of the chapter leaders if you have any feedback or would like to speak to us, we take these matters very seriously. You can find out more about our policies here: <https://www.owasp.org/index.php/Governance/Conference_Policies>
