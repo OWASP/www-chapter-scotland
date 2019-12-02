@@ -1,6 +1,6 @@
 ---
 
-title: Past Events
+title: PastEvents
 displaytext: Past Events
 layout: null
 tab: true
@@ -9,6 +9,4 @@ tags: scotland
 
 ---
 
-## Past Events
-
-### Thursday, 21 November 2019
+List of our past chapter events.
