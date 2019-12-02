@@ -15,7 +15,7 @@ Welcome to the OWASP Scotland Chapter page. The chapter is lead by <a href="mail
 # Events
 
 ## Acknowledgements
-A big thank you to *Delloite* for hosting our upcoming November 2019 event. As well as providing the beer and pizza!
+A big thank you to **Delloite** for hosting our upcoming November 2019 event. As well as providing the beer and pizza!
 
 ## Upcoming Events
 Please follow us on [Twitter](https://twitter.com/OWASPScotland) or [Eventbrite](https://www.eventbrite.co.uk/o/owasp-scotland-12914448732) to find out about new upcoming events. Future events will also be added to this page closer to the time.
