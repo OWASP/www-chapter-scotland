@@ -1,17 +1,15 @@
-### scotland Information
-* [Flagship Project](#)
-* [Tool Project](#)
-* [Version 2.8.0](#)
-* [Builder](#)
-* [Breaker](#)
+### Scotland Information
+* [Become an OWASP Member](https://www.owasp.org/index.php/Membership)
+* [Join Our Mailing List](https://groups.google.com/a/owasp.org/forum/#!forum/london-scotland)
+* [Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement)
+* [Code of Conduct](https://www.owasp.org/index.php/Governance/Conference_Policies)
 
 ### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
+* [Twitter](https://twitter.com/OWASPScotland)
+* [Eventbrite](https://www.eventbrite.co.uk/o/owasp-scotland-12914448732)
 
 ### Code Repository
-* [repo](#)
+* [Chapter Site Pages](https://github.com/OWASP/www-chapter-scotland/)
 
 ### Change Log
-* [changes](#)
-
+* [changes](https://github.com/OWASP/www-chapter-scotland/commits/master)
