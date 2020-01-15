@@ -22,7 +22,9 @@ Please follow us on [Twitter](https://twitter.com/OWASPScotland), [OWASP Scotlan
 
 ### Tuesday, 11 Febraury 2020
 **Time**: 18:00 - 20:00 BST
+
 **Location**:  PwC, 144 Morrison Street, Edinburgh, EH3 8EX
+
 **Tickets**: Tickets are available on eventbrite: https://www.eventbrite.co.uk/e/owasp-scotland-chapter-meeting-february-2020-tickets-90016877905
 
 #### Description
