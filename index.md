@@ -20,33 +20,28 @@ A big thank you to **PwC** for hosting our upcoming February 2020 event. As well
 ## Upcoming Events
 Please follow us on [Twitter](https://twitter.com/OWASPScotland), [OWASP Scotland Google Group](https://groups.google.com/a/owasp.org/forum/#!forum/scotland-chapter) or [Eventbrite](https://www.eventbrite.co.uk/o/owasp-scotland-12914448732) to find out about new upcoming events. Future events will also be added to this page closer to the time.
 
-### Tuesday, 11 Febraury 2020
-**Time**: 18:00 - 20:00 BST
+### Thursday, 28 May 2020
+**Time**: 20:00 - 21:30 BST
 
-**Location**:  PwC, 144 Morrison Street, Edinburgh, EH3 8EX
+**Location**:  Virtual, details will be emailed closer to the time to those who have registered to the event below.
 
-**Tickets**: Tickets are available on eventbrite: <https://www.eventbrite.co.uk/e/owasp-scotland-chapter-meeting-february-2020-tickets-90016877905>
+**Tickets**: Tickets are available on eventbrite: <https://www.eventbrite.co.uk/e/owasp-scotland-virtual-chapter-meeting-may-tickets-105453656726>
 
 #### Description
-We are pleased to announce that the first OWASP Scotland Chapter meeting of 2020 will take place on Tuesday the 11th of Feb. Many thanks to PwC, who has kindly offered to host this event for us. They will also be providing pizza and refreshments on the evening.
+We are pleased to announce that the second OWASP Scotland Chapter meeting of 2020 will take place on Thursday the 28th of May.
 
 
+#### STÖK - TBD
+**Speaker**: STÖK - @stokfredrik, youtube.com/stokfredrik
 
-#### Security Culture and Behaviour - security is still often seen as a technology problem
-**Speaker**: Louise MacDougall
+TBD
 
-This presentation will focus on the culture and behaviours surrounding cyber security and explore the 'People layer' of defence. Louise will discuss how organisations should be approaching cyber security leadership and how they can drive the right security behaviours within their staff. Particular focus will be on the role of senior leadership and behavioural models that can be applied to cyber security.
+#### Context IS - Open Banking Applications
+**Speaker**: Margus Lind & Daniela Schoeffmann, Context IS
 
-#### Nothing Rhymes with Purple
-**Speaker**: Lawrence Munro
+Open Banking is the UK implementation for PSD2. On top of the PSD2 regulations, Open Banking provides a detailed specification for banks and third parties to follow when communicating with one another. This allows companies (TPPs) to build their applications and integrate with online services exposed by any bank (ASPSP) in a standardised way.
 
-In this talk, I discuss the need for collaborative strategies between blue and red teams. I dive deep into the concepts of ‘always-on’ red teaming and the processes of generating use cases from TI through threat hunting to validation. I also discuss the use of point-in-time purple teaming and maximising the value to the SOC. Moreover, I will discuss the direction of travel within the professional services industry and open the floor to discussion.
-
-Bio: Lawrence Munro is Technical Director at NCC Group, a Post-Graduate Student at Oxford University, a CREST Executive member and Director for B-Sides London. His research (and presentation topics) are varied, but often include: red teaming, education in InfoSec and weird side-projects. Lawrence has previously presented his ideas and research at: Black Hat USA, DEFCON, 44CON, RootCon, B-Sides (Various), ToorCon.
-
-
-
-For attending this event you will be able to claim 2 CPE points.
+With an increasing number of banks using APIs to share data, Open Banking promises better business opportunities and more robust security for customers and banks. However, implementation of publicly accessible APIs and introduction of new security models create a myriad of challenges. This makes for a wider attack surface and puts data in the hands of more companies (third party providers) who have differing approaches to customer data protection. In this talk we will cover a brief introduction to Open Banking, our experiences with testing implementations of Open Banking, as well as the technical and project management challenges we have overcome along the way. We will demonstrate the technical complexities encountered, and share some interesting discoveries made during the engagements.
 
 # Code of Conduct
 We hope you enjoy our events, we care deeply about inclusivity and diversity so that OWASP is a comfortable and welcoming community for everyone. Please reach out to one of the chapter leaders if you have any feedback or would like to speak to us, we take these matters very seriously. You can find out more about our policies here: <https://owasp.org/www-policy/operational/conferences-events.html>.
