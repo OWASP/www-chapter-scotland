@@ -31,10 +31,10 @@ Please follow us on [Twitter](https://twitter.com/OWASPScotland), [OWASP Scotlan
 We are pleased to announce that the second OWASP Scotland Chapter meeting of 2020 will take place on Thursday the 28th of May.
 
 
-#### STÖK - TBD
+#### STÖK - Bounty curious? How to win at bug bounties in 2020 (and stay sane)
 **Speaker**: STÖK - @stokfredrik, youtube.com/stokfredrik
 
-TBD
+STÖK will be providing us insight into how to approach bug bounties as a hobby in 2020, what tools most people use, why you need automation, understanding depth vs. breadth, fuzzing vs code review; and how to stay sane whilst competing against 700,000 other hackers.
 
 #### Context IS - Open Banking Applications
 **Speaker**: Margus Lind & Daniela Schoeffmann, Context IS
