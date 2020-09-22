@@ -35,4 +35,4 @@ Abstract – The world of containerization can be a morass of new and odd soundi
 Bio - Rory has worked in the Information and IT Security arena for the last 20 years in a variety of roles. These days he spends most of his work time on application, cloud and container security. He's an active member of the UK information security community having delivered presentations at a variety of IT and Information security conferences. He has also presented at major containerization conferences and is an author of the CIS Benchmarks for Docker and Kubernetes.
 
 #### Daniel Card (@UK_Daniel_Card)
-Abstract – TBCggg
+Panel Discussion - Panel discussion involving Daniel Card, covering topics ranging from the community, common security mistakes, and community based events.
