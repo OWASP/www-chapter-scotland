@@ -20,19 +20,14 @@ A big thank you to **PwC** for hosting our upcoming February 2020 event. As well
 ## Upcoming Events
 Please follow us on [Twitter](https://twitter.com/OWASPScotland), [OWASP Scotland Google Group](https://groups.google.com/a/owasp.org/forum/#!forum/scotland-chapter) or [Eventbrite](https://www.eventbrite.co.uk/o/owasp-scotland-12914448732) to find out about new upcoming events. Future events will also be added to this page closer to the time.
 
-### Thursday, 24 September 2020
+### Thursday, 10 December 2020 (December Xmas Special)
 **Time**: 20:00 - 21:30 BST
 
 **Location**:  Virtual, details will be emailed closer to the time to those who have registered to the event below.
 
-**Tickets**: Tickets are available on eventbrite: <https://www.eventbrite.co.uk/e/owasp-scotland-virtual-chapter-meeting-sept-tickets-119944656697>
+**Tickets**: Tickets are available on eventbrite: <https://www.eventbrite.co.uk/e/owasp-scotland-december-xmas-special-virtual-chapter-meeting-tickets-131521886503>
 
 #### Description
-We are pleased to announce that the second OWASP Scotland Chapter meeting of 2020 will take place on Thursday the 28th of May.
-
-#### Rory McCune (@raesene)
-Abstract – The world of containerization can be a morass of new and odd sounding acronyms and terms. However when you start to dig into what’s really happening with Docker, Kubernetes et al, you will find that there’s a lot of familiar technologies involved which can have existing approaches to security applied to them. This talk aims to demystify the container security world and explain some of the underlying concepts”.
-Bio - Rory has worked in the Information and IT Security arena for the last 20 years in a variety of roles. These days he spends most of his work time on application, cloud and container security. He's an active member of the UK information security community having delivered presentations at a variety of IT and Information security conferences. He has also presented at major containerization conferences and is an author of the CIS Benchmarks for Docker and Kubernetes.
-
-#### Daniel Card (@UK_Daniel_Card)
-Panel Discussion - Panel discussion involving Daniel Card, covering topics ranging from the community, common security mistakes, and community based events.
+Join the OWASP Scotland community in this final Xmas Special chapter meeting 0f 2020 where we will talk about some of the worst hacks and breaches of the year.
+If you have a story you’d like to share drop us a line and we’ll fit you in. Bring yourself, bring your favourite tipple and we will see you there.
+Note: Participants are limited for this virtual meetup and sign-in details will be provided closer to the time.
