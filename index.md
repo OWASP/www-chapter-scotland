@@ -10,11 +10,9 @@ region: Europe
 
 ---
 
-Welcome to the OWASP Scotland Chapter page. The chapter is lead by <a href="mailto:sean.wright@owasp.org">Sean Wright</a> and <a href="mailto:rob.jansson@owasp.org">Rob Jansson</a>. Please follow us on [Twitter](https://twitter.com/OWASPScotland) for our latest updates as well as [Eventbrite](https://www.eventbrite.co.uk/o/owasp-scotland-12914448732). Alternatively signup to our [OWASP Scotland Google Group](https://groups.google.com/a/owasp.org/forum/#!forum/scotland-chapter).
+Welcome to the OWASP Scotland Chapter page. The chapter is lead by <a href="mailto:sean.wright@owasp.org">Sean Wright</a> and <a href="mailto:rob.jansson@owasp.org">Rob Jansson</a>. Please follow us on [Twitter](https://twitter.com/OWASPScotland) for our latest updates as well as [Eventbrite](https://www.eventbrite.co.uk/o/owasp-scotland-12914448732) for notifications of upcoming events (as well as obtaining tickets for those events). Alternatively signup to our [OWASP Scotland Google Group](https://groups.google.com/a/owasp.org/forum/#!forum/scotland-chapter).
 
 # Events
-
-You can join our [Eventbrite channel](https://www.eventbrite.co.uk/o/owasp-scotland-12914448732) to keep track of upcoming events as well as get tickets to those events. Emails are also sent to those who have signed up to the OWASP Scotland email group.
 
 ## Upcoming Events
 Please follow us on [Twitter](https://twitter.com/OWASPScotland), [OWASP Scotland Google Group](https://groups.google.com/a/owasp.org/forum/#!forum/scotland-chapter) or [Eventbrite](https://www.eventbrite.co.uk/o/owasp-scotland-12914448732) to find out about new upcoming events. Future events will also be added to this page closer to the time.
