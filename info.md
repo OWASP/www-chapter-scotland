@@ -5,9 +5,9 @@
 * [Code of Conduct](https://owasp.org/www-policy/)
 
 ### Downloads or Social Links
-* [Meetup](https://www.meetup.com/owasp-scotland-meetup-group/)
-* [Twitter](https://twitter.com/OWASPScotland)
+
 * [Eventbrite](https://www.eventbrite.co.uk/o/owasp-scotland-12914448732)
+* [Twitter](https://twitter.com/OWASPScotland)
 
 ### Code Repository
 * [Chapter Site Pages](https://github.com/OWASP/www-chapter-scotland/)
