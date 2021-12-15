@@ -17,24 +17,19 @@ Welcome to the OWASP Scotland Chapter page. The chapter is lead by <a href="mail
 ## Upcoming Events
 Please follow us on [Twitter](https://twitter.com/OWASPScotland), [OWASP Scotland Google Group](https://groups.google.com/a/owasp.org/forum/#!forum/scotland-chapter) or [Eventbrite](https://www.eventbrite.co.uk/o/owasp-scotland-12914448732) to find out about new upcoming events. Future events will also be added to this page closer to the time.
 
-### Thursday, 1 April 2021
+### Thursday, 16 December 2021
 **Time**: 20:00 - 21:30 BST
 
 **Location**:  Virtual, details will be emailed closer to the time to those who have registered to the event below.
 
-**Tickets**: Tickets are available on eventbrite: <https://www.eventbrite.co.uk/e/owasp-scotland-april-virtual-chapter-meeting-tickets-148263727801>
+**Tickets**: Tickets are available on eventbrite: <https://www.eventbrite.co.uk/e/owasp-scotland-chapter-meeting-december-tickets-224828597387>
 
-#### Scale Your Security by Embracing Secure Defaults & Eliminating Bug Classes
+#### Open Source Software Supply Chains
 
-We’re in the middle of a significant shift in how security teams operate and prioritize their limited budget and person-time. Historically, as an industry, we’ve focused on building tools to identify vulnerabilities. While we’ve built impressive tools, these approaches have failed to address the challenges of modern engineering teams. Specifically, these tools often are too slow, require a prohibitive amount of security engineer time and domain expertise to tune, overwhelm users with false positives, and most importantly, do not ultimately raise a company’s security bar. But there’s another way. Rather than investing in finding more bugs, some modern security teams are instead focusing on providing developers with frameworks and services with secure defaults (“guard rails”) so that developers can build features quickly and securely. When done correctly, combining secure defaults and lightweight checks that enforce invariants (properties that must always hold), organizations can solve *classes* of vulnerabilities by construction, preventing bug whack-a-mole. In this talk, we’ll present a practical step-by-step methodology for:
+As modern software development evolves; we no longer build things from the ground up. Extensive use is made of open source software such as libraries and frameworks. While this is fantastic from a development point of view (allowing for faster development of applications and features), it does present a potential drawback if not done correctly, an increased risk. Often, we see libraries being used and seldom updated, also we see several libraries being blindly with little to not inspections and reviews. This is gold mine for attackers, there are many ways that they have will continue to use this to their advantage. The purpose of this talk is to cover some of the techniques which attackers could use to exploit open source supply chains. This will include a live demonstration of one such technique which an attacker could used. The talk will then focus on the excellent OWASP Dependency Track tool, showing how this can help reduce the risk to organizations when it comes to dealing with open source packages in software.
 
-* Choosing what to focus your AppSec resources on
-* How to combine secure defaults + lightweight invariant enforcement to eradicate entire vulnerability classes
-* How to integrate continuous code scanning into your CI/CD processes in a way that’s fast, high signal, and low friction for developers
-* How to use an open source, lightweight security linting tool to find bugs and anti-patterns specific to your company
+##### Speaker Bio - Sean Wright
 
-##### Speaker Bio
-
-Grayson Hardaway is a security researcher at r2c, a startup working on static analysis tools purpose-built for the modern workflow. At r2c, Grayson authors static analysis tailored for finding security vulnerabilities in open source code. Previously, Grayson worked for the US Department of Defense fuzzing and exploiting obscure protocols. When not submitting patches, Grayson is hefting a heavy pack uphill, crafting guitar solos, or learning something new: currently woodworking.
+Lead Application Security SME at Immersive Labs with an origin as a software developer. Primarily focused on web-based application security with a special interest in TLS related subjects. Experienced in providing technical leadership in relation to application security, as well as engaging with teams to improve the security of systems that they develop. Passionate to be a part of the community and giving back to the community. Additionally, enjoy spending personal time performing personal security-related research.
 
 Note: Participants are limited for this virtual meetup and sign-in details will be provided closer to the time.
