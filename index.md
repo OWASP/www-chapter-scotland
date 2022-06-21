@@ -20,11 +20,7 @@ Please follow us on [Twitter](https://twitter.com/OWASPScotland), [OWASP Scotlan
 ### Friday, 30 June 2022
 **Time**: 18:00 - 20:00 BST
 
-**Location**:  
-PwC
-144 Morrison Street
-Edinburgh
-EH3 8EX
+**Location**:  PwC, 144 Morrison Street, Edinburgh, EH3 8EX
 
 **Tickets**: Tickets are available on eventbrite: <[https://www.eventbrite.co.uk/e/owasp-scotland-chapter-meeting-december-tickets-224828597387](https://www.eventbrite.co.uk/e/owasp-scotland-chapter-meeting-june-tickets-370395722577)>
 
