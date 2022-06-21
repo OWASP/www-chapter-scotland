@@ -11,6 +11,19 @@ tags: scotland
 
 List of our past chapter events.
 
+### Friday, 31 December 2021
+**Time**: 16:00 - 17:00 BST
+
+**Location**:  Virtual, details will be emailed closer to the time to those who have registered to the event below.
+
+**Tickets**: Tickets are available on eventbrite: <https://www.eventbrite.co.uk/e/owasp-scotland-chapter-meeting-december-tickets-224828597387>
+
+#### Informal chapter meeting - join in to discuss the year ending
+
+Join us for an informal discussion rounding up the year. This will be an open discussion, for which we would love as much input as possible.
+
+Note: Participants are limited for this virtual meetup and sign-in details will be provided closer to the time.
+
 ### Thursday, 16 December 2021
 **Time**: 20:00 - 21:30 BST
 
