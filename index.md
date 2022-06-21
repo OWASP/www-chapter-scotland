@@ -17,15 +17,21 @@ Welcome to the OWASP Scotland Chapter page. The chapter is lead by <a href="mail
 ## Upcoming Events
 Please follow us on [Twitter](https://twitter.com/OWASPScotland), [OWASP Scotland Google Group](https://groups.google.com/a/owasp.org/forum/#!forum/scotland-chapter) or [Eventbrite](https://www.eventbrite.co.uk/o/owasp-scotland-12914448732) to find out about new upcoming events. Future events will also be added to this page closer to the time.
 
-### Friday, 31 December 2021
-**Time**: 16:00 - 17:00 BST
+### Friday, 30 June 2022
+**Time**: 18:00 - 20:00 BST
 
-**Location**:  Virtual, details will be emailed closer to the time to those who have registered to the event below.
+**Location**:  
+PwC
+144 Morrison Street
+Edinburgh
+EH3 8EX
 
-**Tickets**: Tickets are available on eventbrite: <https://www.eventbrite.co.uk/e/owasp-scotland-chapter-meeting-december-tickets-224828597387>
+**Tickets**: Tickets are available on eventbrite: <[https://www.eventbrite.co.uk/e/owasp-scotland-chapter-meeting-december-tickets-224828597387](https://www.eventbrite.co.uk/e/owasp-scotland-chapter-meeting-june-tickets-370395722577)>
 
-#### Informal chapter meeting - join in to discuss the year ending
+#### Elevate your AppSec Program with the OWASP JuiceShop Project
 
-Join us for an informal discussion rounding up the year. This will be an open discussion, for which we would love as much input as possible.
+Dan Gora will give an introduction to the OWASP JuiceShop, the German OWASP flagship project and one of the most likely sophisticated insecure web applications. Dan demonstrates how to get started with hands-on application security learning by walking through OWASP Top 10 vulnerabilities in the JuiceShop. This includes vulnerabilities such as cross-site scripting and code injection. Furthermore, it will be shown how the OWASP Juice Shop can be used for security training, awareness demos, CTFs and as a guinea pig for testing your security tooling.
 
-Note: Participants are limited for this virtual meetup and sign-in details will be provided closer to the time.
+##### Speaker Bio
+
+Dan Gora is a Cloud Security Architect at Cloudreach (ATOS) specialising in Cloud-Native Security, DevSecOps and Application Security. Dan is also an OWASP Frankfurt Stammtisch co-organiser and regularly commutes between Edinburgh and Frankfurt, Germany. Dan is also Leading the OWASP Frankfurt Regular Table and is a Board Member of the German OWASP Chapter. If Dan is not shifting security left, you can find him with his head in the cloud on top of Scottish Highland Munros, which he very much enjoys bagging.
