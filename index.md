@@ -17,17 +17,27 @@ Welcome to the OWASP Scotland Chapter page. The chapter is lead by <a href="mail
 ## Upcoming Events
 Please follow us on [Twitter](https://twitter.com/OWASPScotland), [OWASP Scotland Google Group](https://groups.google.com/a/owasp.org/forum/#!forum/scotland-chapter) or [Eventbrite](https://www.eventbrite.co.uk/o/owasp-scotland-12914448732) to find out about new upcoming events. Future events will also be added to this page closer to the time.
 
-### Friday, 30 June 2022
+### Friday, 13 December 2022
 **Time**: 18:00 - 20:00 BST
 
-**Location**:  PwC, 144 Morrison Street, Edinburgh, EH3 8EX
+**Location**:  Hays, 7 Castle Street, Edinburgh, EH2 3AH
 
-**Tickets**: Tickets are available on eventbrite: <[https://www.eventbrite.co.uk/e/owasp-scotland-chapter-meeting-december-tickets-224828597387](https://www.eventbrite.co.uk/e/owasp-scotland-chapter-meeting-june-tickets-370395722577)>
+**Tickets**: Tickets are available on eventbrite: [https://www.eventbrite.co.uk/e/owasp-scotland-chapter-meeting-dec-tickets-475144398687](https://www.eventbrite.co.uk/e/owasp-scotland-chapter-meeting-dec-tickets-475144398687)
 
-#### Elevate your AppSec Program with the OWASP JuiceShop Project
+#### Meeting the Ministrer
 
-Dan Gora will give an introduction to the OWASP JuiceShop, the German OWASP flagship project and one of the most likely sophisticated insecure web applications. Dan demonstrates how to get started with hands-on application security learning by walking through OWASP Top 10 vulnerabilities in the JuiceShop. This includes vulnerabilities such as cross-site scripting and code injection. Furthermore, it will be shown how the OWASP Juice Shop can be used for security training, awareness demos, CTFs and as a guinea pig for testing your security tooling.
+Things not always being as they seem is a common adage that lends itself well to the cyber world. Phishing tries explicitly to convince an email recipient that a message is legitimate and trustworthy when it is not. This applies equally to cases where the sender is interested in criminal exploits or nation-state activity.
 
-##### Speaker Bio
+FortiGuard Labs recently came across an unassuming phishing email that proved to be far more than it initially seemed. Written in Russian, it attempts to lure the recipient into deploying malware on their system. This talk will cover the analysis of that malware which happens to have been Konni - a remote administration tool (RAT) that has been tied to the group APT 37 (aka: Ricochet Chollima, InkySquid, ScarCruft, Reaper, and Group123). This group has been known to align its targeting and objectives with those of the government of the Democratic People’s Republic of Korea (DPRK), commonly known as North Korea.
 
-Dan Gora is a Cloud Security Architect at Cloudreach (ATOS) specialising in Cloud-Native Security, DevSecOps and Application Security. Dan is also an OWASP Frankfurt Stammtisch co-organiser and regularly commutes between Edinburgh and Frankfurt, Germany. Dan is also Leading the OWASP Frankfurt Regular Table and is a Board Member of the German OWASP Chapter. If Dan is not shifting security left, you can find him with his head in the cloud on top of Scottish Highland Munros, which he very much enjoys bagging.
+##### Speaker Bio -  James Slaughter
+
+Who Am I?
+
+I'm Canadian, eh!
+
+Currently a Senior Threat Intel Engineer at FortinetDay-to-day responsible for looking for "interesting samples", reversing them and then blogging the results. Some recent examples -[https://www.fortinet.com/blog/search?author=James+Slaughter](https://www.fortinet.com/blog/search?author=James+Slaughter)
+
+Prior to Fortinet:8 years at NatWest as the Cyber Threat Hunting and Analytics Tech Lead10 years at BlackBerry as a Dev
+
+My hobbies match my vocation. You can usually find me tinkering with malware or code that I stick up on GitHub - [https://github.com/slaughterjames](https://github.com/slaughterjames)
