@@ -17,15 +17,21 @@ Welcome to the OWASP Scotland Chapter page. The chapter is lead by <a href="mail
 ## Upcoming Events
 Please follow us on [Twitter](https://twitter.com/OWASPScotland), [OWASP Scotland Google Group](https://groups.google.com/a/owasp.org/forum/#!forum/scotland-chapter) or [Eventbrite](https://www.eventbrite.co.uk/o/owasp-scotland-12914448732) to find out about new upcoming events. Future events will also be added to this page closer to the time.
 
-### Tursday, 29 December 2022
-**Time**: 20:00 - 21:00 GMT
+### Tursday, 6 April 2023
+**Time**: 18:00 - 20:00 BST
 
-**Location**:  Virtual (Details to be announced)
+**Location**:  PwC, 144 Morrison Street, Edinburgh, EH3 8EX
 
-**Tickets**: Tickets are available on eventbrite: [https://www.eventbrite.co.uk/e/owasp-scotland-chapter-meeting-dec-tickets-475144398687](https://www.eventbrite.co.uk/e/owasp-scotland-chapter-meeting-end-of-year-tickets-499463908997)
+**Tickets**: Tickets are available on eventbrite: [https://www.eventbrite.co.uk/e/owasp-scotland-chapter-meeting-dec-tickets-475144398687](https://www.eventbrite.co.uk/e/owasp-scotland-chapter-meeting-april-tickets-597182307357)
 
-#### End of Year
+#### Talk 1 - Cyber as a Science
 
-OWASP Scotland will be hosting an informal chapter meeting. Join in to discuss the year ending.
+In this talk, I discuss the importance of the scientific method within the Cybersecurity industry and the challenges created by pseudoscience and guff. I will also examine the issues with current efforts in this space, such as: the limited relevance of academia, the challenges of getting access to relevant data, the rapidly changing threat landscape and persistence in creating analogues to military doctrine.
 
-If you have a story you’d like to share drop us a line and we’ll fit you in. Bring yourself, bring your favourite tipple and we will see you there.
+##### Speaker Bio -  Lawrence Munro
+
+Lawrence is the Group CISO at NCC Group and has a background in penetration testing and social engineering. He’s currently an expert advisor to the UK Government via the ‘College of experts’ within DCMS and is a former member of the CREST executive and B-Sides London Director. Lawrence has previously presented his ideas at BlackHat USA, RSA, 44Con and a number of other conferences.
+
+#### Talk 2
+
+TBD
