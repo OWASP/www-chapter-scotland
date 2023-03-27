@@ -11,6 +11,17 @@ tags: scotland
 
 List of our past chapter events.
 
+### Tursday, 29 December 2022
+**Time**: 20:00 - 21:00 GMT
+
+**Location**:  Virtual (Details to be announced)
+
+**Tickets**: Tickets are available on eventbrite: [https://www.eventbrite.co.uk/e/owasp-scotland-chapter-meeting-dec-tickets-475144398687](https://www.eventbrite.co.uk/e/owasp-scotland-chapter-meeting-end-of-year-tickets-499463908997)
+
+#### End of Year
+
+OWASP Scotland will be hosting an informal chapter meeting. Join in to discuss the year ending.
+
 ### Friday, 13 December 2022
 **Time**: 18:00 - 20:00 BST
 
