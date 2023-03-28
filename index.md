@@ -32,6 +32,10 @@ In this talk, I discuss the importance of the scientific method within the Cyber
 
 Lawrence is the Group CISO at NCC Group and has a background in penetration testing and social engineering. He’s currently an expert advisor to the UK Government via the ‘College of experts’ within DCMS and is a former member of the CREST executive and B-Sides London Director. Lawrence has previously presented his ideas at BlackHat USA, RSA, 44Con and a number of other conferences.
 
-#### Talk 2
+#### Talk 2 - Can't you keep a secret? Cloud-Native Secrets Management with OWASP WrongSecrets
 
-TBD
+In this talk, Dan will dive into cloud secrets management best practices and show you all the things that can go terribly wrong with secrets management in the cloud through using OWASP WrongSecrets. Dan will also walk you through some example challenges related to exposed secrets in codes and misconfigured Kubernetes clusters.
+
+##### Speaker Bio -  Dan Gora
+
+Dan Gora is a Lead Cloud Security Architect at Cloudreach (An ATOS Company) specialising in Cloud-Native Security, DevSecOps and Application Security. He is also an OWASP Frankfurt Chapter Lead and an avid Scottish Munro-bagger, having conquered half of all Scottish munros.
