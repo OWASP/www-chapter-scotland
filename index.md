@@ -22,7 +22,7 @@ Please follow us on [Twitter](https://twitter.com/OWASPScotland), [OWASP Scotlan
 
 **Location**:  PwC, 144 Morrison Street, Edinburgh, EH3 8EX
 
-**Tickets**: Tickets are available on eventbrite: [https://www.eventbrite.co.uk/e/owasp-scotland-chapter-meeting-dec-tickets-475144398687](https://www.eventbrite.co.uk/e/owasp-scotland-chapter-meeting-april-tickets-597182307357)
+**Tickets**: Tickets are available on eventbrite: [https://www.eventbrite.co.uk/e/owasp-scotland-chapter-meeting-april-tickets-597182307357](https://www.eventbrite.co.uk/e/owasp-scotland-chapter-meeting-april-tickets-597182307357)
 
 #### Talk 1 - Cyber as a Science
 
