@@ -17,25 +17,37 @@ Welcome to the OWASP Scotland Chapter page. The chapter is lead by <a href="mail
 ## Upcoming Events
 Please follow us on [Twitter](https://twitter.com/OWASPScotland), [OWASP Scotland Google Group](https://groups.google.com/a/owasp.org/forum/#!forum/scotland-chapter) or [Eventbrite](https://www.eventbrite.co.uk/o/owasp-scotland-12914448732) to find out about new upcoming events. Future events will also be added to this page closer to the time.
 
-### Tursday, 6 April 2023
+### Tursday, 29 June 2023
 **Time**: 18:00 - 20:00 BST
 
-**Location**:  PwC, 144 Morrison Street, Edinburgh, EH3 8EX
+**Location**:  Hays, 7 Castle Street, Edinburgh, EH2 3AH
 
-**Tickets**: Tickets are available on eventbrite: [https://www.eventbrite.co.uk/e/owasp-scotland-chapter-meeting-april-tickets-597182307357](https://www.eventbrite.co.uk/e/owasp-scotland-chapter-meeting-april-tickets-597182307357)
+**Tickets**: Tickets are available on eventbrite: [https://www.eventbrite.co.uk/e/owasp-scotland-chapter-meeting-summer-session-tickets-658038349417](https://www.eventbrite.co.uk/e/owasp-scotland-chapter-meeting-summer-session-tickets-658038349417)
 
-#### Talk 1 - Cyber as a Science
+#### Talk 1 - Insights from the Hays Global Cyber Report
 
-In this talk, I discuss the importance of the scientific method within the Cybersecurity industry and the challenges created by pseudoscience and guff. I will also examine the issues with current efforts in this space, such as: the limited relevance of academia, the challenges of getting access to relevant data, the rapidly changing threat landscape and persistence in creating analogues to military doctrine.
+Insights from the Hays Global Cyber Report on talent and demand across the Cyber Security Market. Exploring the areas that Cyber Leaders have concerns alongside domains for likely investment.
 
-##### Speaker Bio -  Lawrence Munro
+##### Speaker Bio -  James Walsh
 
-Lawrence is the Group CISO at NCC Group and has a background in penetration testing and social engineering. He’s currently an expert advisor to the UK Government via the ‘College of experts’ within DCMS and is a former member of the CREST executive and B-Sides London Director. Lawrence has previously presented his ideas at BlackHat USA, RSA, 44Con and a number of other conferences.
+James is a specialist Cyber/InfoSec recruiter with over 10 years of experience in the sector. He is has worked with multiple sectors from National Government, FS, Defence, Professional Services, Logistics, Heath Care, Pub Sec and Pharmaceuticals placing CISOs, Directors of Cyber and more. He is CISMP certified and was the first recruiter in the UK to hold the certification. James leads the Hays UK&I Cyber Practice that works across Cyber/InfoSec roles from entry level to the board providing perm, interim and consultancy services.
 
-#### Talk 2 - Can't you keep a secret? Cloud-Native Secrets Management with OWASP WrongSecrets
+#### Talk 2 - Clean Rooms, Nuclear Missiles and SideCopy, Oh My!
 
-In this talk, Dan will dive into cloud secrets management best practices and show you all the things that can go terribly wrong with secrets management in the cloud through using OWASP WrongSecrets. Dan will also walk you through some example challenges related to exposed secrets in codes and misconfigured Kubernetes clusters.
+Occasionally, FortiGuard Labs researchers come across a file name or e-mail subject that makes us sit up and take notice. Of course, it may turn out to be nothing. But every once in a while, one of these turns out to be incredibly interesting.
 
-##### Speaker Bio -  Dan Gora
+We recently came across one such file that referenced an Indian state military research organization and an in-development nuclear missile. The file was meant to deploy malware with characteristics matching the APT group “SideCopy”. With activities dating back to at least 2019, this group has aligned its targeting with the goals and objectives of the Pakistani government.
 
-Dan Gora is a Lead Cloud Security Architect at Cloudreach (An ATOS Company) specialising in Cloud-Native Security, DevSecOps and Application Security. He is also an OWASP Frankfurt Chapter Lead and an avid Scottish Munro-bagger, having conquered half of all Scottish munros.
+##### Speaker Bio - James Slaughter
+
+Who Am I? I'm Canadian, eh!
+
+Currently a Senior Threat Intel Engineer at Fortinet. Day-to-day responsible for looking for "interesting samples", reversing them and then blogging the results. Some recent examples - [https://www.fortinet.com/blog/search?author=James+Slaughter](https://www.fortinet.com/blog/search?author=James+Slaughter)
+
+Prior to Fortinet:
+
+8 years at NatWest as the Cyber Threat Hunting and Analytics Tech Lead
+
+10 years at BlackBerry as a Dev
+
+My hobbies match my vocation. You can usually find me tinkering with malware or code that I stick up on GitHub - [https://github.com/slaughterjames](https://github.com/slaughterjames)
