@@ -6,6 +6,7 @@ tags: scotland
 level: 4
 currency: gbp
 meeting-platform: eventbrite
+country: Scotland
 region: Europe
 
 ---
