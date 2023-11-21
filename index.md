@@ -18,37 +18,19 @@ Welcome to the OWASP Scotland Chapter page. The chapter is lead by <a href="mail
 ## Upcoming Events
 Please follow us on [Twitter](https://twitter.com/OWASPScotland), [OWASP Scotland Google Group](https://groups.google.com/a/owasp.org/forum/#!forum/scotland-chapter) or [Eventbrite](https://www.eventbrite.co.uk/o/owasp-scotland-12914448732) to find out about new upcoming events. Future events will also be added to this page closer to the time.
 
-### Tursday, 29 June 2023
-**Time**: 18:00 - 20:00 BST
+### Tursday, 23 November 2023
+**Time**: 20:00 - 21:00 BST
 
-**Location**:  Hays, 7 Castle Street, Edinburgh, EH2 3AH
+**Location**:  Online (details will be provide from EventBrite)
 
-**Tickets**: Tickets are available on eventbrite: [https://www.eventbrite.co.uk/e/owasp-scotland-chapter-meeting-summer-session-tickets-658038349417](https://www.eventbrite.co.uk/e/owasp-scotland-chapter-meeting-summer-session-tickets-658038349417)
+**Tickets**: Tickets are available on eventbrite: [https://www.eventbrite.co.uk/e/owasp-scotland-chapter-meeting-summer-session-tickets-658038349417](https://www.eventbrite.co.uk/e/active-directory-security-tickets-759558990387)
 
-#### Talk 1 - Insights from the Hays Global Cyber Report
+#### Talk 1 - Active Directory Security
 
-Insights from the Hays Global Cyber Report on talent and demand across the Cyber Security Market. Exploring the areas that Cyber Leaders have concerns alongside domains for likely investment.
+During this event, industry professionals will share their insights on enhancing your Active Directory security posture. Learn how to protect against unauthorized access, prevent data breaches, and strengthen your overall cybersecurity defenses.
 
-##### Speaker Bio -  James Walsh
+Whether you're an IT professional, system administrator, or simply interested in bolstering your organization's security, this event is a must-attend. Connect with like-minded individuals, exchange ideas, and gain valuable knowledge to safeguard your Active Directory infrastructure.
 
-James is a specialist Cyber/InfoSec recruiter with over 10 years of experience in the sector. He is has worked with multiple sectors from National Government, FS, Defence, Professional Services, Logistics, Heath Care, Pub Sec and Pharmaceuticals placing CISOs, Directors of Cyber and more. He is CISMP certified and was the first recruiter in the UK to hold the certification. James leads the Hays UK&I Cyber Practice that works across Cyber/InfoSec roles from entry level to the board providing perm, interim and consultancy services.
+Don't miss out on this opportunity to stay ahead of the ever-evolving threat landscape. Register now to secure your spot and take proactive steps towards a more secure Active Directory environment.
 
-#### Talk 2 - Clean Rooms, Nuclear Missiles and SideCopy, Oh My!
-
-Occasionally, FortiGuard Labs researchers come across a file name or e-mail subject that makes us sit up and take notice. Of course, it may turn out to be nothing. But every once in a while, one of these turns out to be incredibly interesting.
-
-We recently came across one such file that referenced an Indian state military research organization and an in-development nuclear missile. The file was meant to deploy malware with characteristics matching the APT group “SideCopy”. With activities dating back to at least 2019, this group has aligned its targeting with the goals and objectives of the Pakistani government.
-
-##### Speaker Bio - James Slaughter
-
-Who Am I? I'm Canadian, eh!
-
-Currently a Senior Threat Intel Engineer at Fortinet. Day-to-day responsible for looking for "interesting samples", reversing them and then blogging the results. Some recent examples - [https://www.fortinet.com/blog/search?author=James+Slaughter](https://www.fortinet.com/blog/search?author=James+Slaughter)
-
-Prior to Fortinet:
-
-8 years at NatWest as the Cyber Threat Hunting and Analytics Tech Lead
-
-10 years at BlackBerry as a Dev
-
-My hobbies match my vocation. You can usually find me tinkering with malware or code that I stick up on GitHub - [https://github.com/slaughterjames](https://github.com/slaughterjames)
+Note: Virtual meeting link will be emailed to registered attendees on the day of the event.
