@@ -17,39 +17,29 @@ Welcome to the OWASP Scotland Chapter page. The chapter is lead by <a href="mail
 
 ## Upcoming Events
 
-### Tursday, 18 April 2024
-**Time**: 20:00 - 21:00 BST
+### Thursday, 20 June 2024
+**Time**: 18:00 - 21:00 BST
 
-**Location**:  EY Edinburgh, 144 Morrison Street, Edinburgh
+**Location**:  PwC UK, 144 Morrison Street, Edinburgh
 
-**Tickets**: Tickets are available on Meetup: [https://www.eventbrite.co.uk/e/owasp-scotland-chapter-meeting-summer-session-tickets-658038349417](https://www.meetup.com/owasp-scotland-chapter/events/300167834/).
+**Tickets**: Tickets are available on Meetup: [https://www.meetup.com/owasp-scotland-chapter/events/301560170](https://www.meetup.com/owasp-scotland-chapter/events/301560170/).
 
-Join us at the OWASP Scotland Chapter Meeting where we have two exciting talks lined up focusing on Large Language Models (LLMs) security and risk aspects; as well as a deep dive into the recent "iSOON Leak".
+Join us at the OWASP Scotland Chapter Meeting where we have an exciting talk lined up focusing on mainframe hacking alongside a brief update from the OWASP Scotland Chapter leaders on OWASP flagship projects and global events.
 
 This event is perfect for software developers, ethical hackers, and cybersecurity enthusiasts interested in learning about the latest trends in cyber security.
 
-#### Talk 1 - Large Language Models (LLMs) and Risk Management
+#### Talk 1 - OWASP Update
+**Speakers**: Rob Jansson, Sean Wright and Jim Slaughter
 
-**Speakers**: Jason Fish and Jamie Cranmer
+#### Talk 2 – Hacking the Crown Jewels - The Mainframe!
+**Speaker**: Kev Milne & Hubert Januzewski
 
-This talk will cover the below talking points:
-1. Introduction to LLMs - Overview of Generative AI and potential Use Cases
-2. LLM Risk - Risks associated with LLM and how they differ from other types of AI
-3. AI Risk management and ML Ops - Core capabilities that support the management of AI and Generative AI risks
+'The Mainframe' is often overlooked as a legacy system that holds little importance in today's computing world. It is certainly seen as some mystical black box that should not be touched. The lack of access to Mainframes such as the IBM zSeries often does not make it easy to conduct research on these systems that process billions of transactions per year and hold sensitive data.
 
-#### Talk 2 – The iSOON Leak: What Is It and How to Analyse It
-**Speaker**: Jim Slaughter
+During this talk we will give an insight into the history of Mainframes, some of their weaknesses (and strengths) and demonstrate some of the tools and exploitation techniques that can be used to assess, gain a foothold, and escalate privileges to SPECIAL. Finally, we will provide information on where to start learning about Mainframes with special attention paid to tapping into the free resources and emulators that exist out there.
 
-In late February, an unusual event occurred. While it was widely known the PRC was actively engaged in espionage around the world, glimpses into how this was done were few and far between. Then a repo appeared on GitHub.
-The iSOON leak has revealed a significant amount of information about the internal operations and capabilities of a state-affiliated hacking contractor in China. Given the challenges of analysing a large trove of files (often without the aid of a native language speaker), new ways of utilizing technology (including AI) were needed to fully understand this dataset.
+**About us**:
 
-**Bio**:
-Who Am I? I'm Canadian, eh! Currently a Senior Threat Intel Engineer at Fortinet
+Kev Milne is a technical specialist with 30 years of experience, and over 20 years of Cyber Security experience having started Pen Testing first in 1999. He is currently the Training and Infrastructure Manager for Security Testing at NatWest. His job as is to mentor, and motivate the next generation of testers at NatWest whilst maintaining the Security Testing Labs.
 
-Day-to-day responsible for looking for "interesting samples", and reversing them. Blogs - [https://www.fortinet.com/blog/search?author=James+Slaughter](https://www.fortinet.com/blog/search?author=James+Slaughter)
-
-Prior to Fortinet:
-* 8 years at NatWest as the Cyber Threat Hunting and Analytics Tech Lead
-* 10 years at BlackBerry as a Dev
-* 
-My hobbies match my vocation. You can usually find me tinkering with malware or code that I stick up on GitHub - [https://github.com/slaughterjames](https://github.com/slaughterjames)
+Hubert Januszewski is a graduate of Abertay University Ethical Hacking course and is currently part of the Offensive Security Testing Team at NatWest Bank where he conducts tests on everything from Infrastructure, Web Applications, Cloud and Mainframes! Hubert's interests include CTFs, Sci-fi books, games, and technology.
