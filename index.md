@@ -17,12 +17,12 @@ Welcome to the OWASP Scotland Chapter page. The chapter is lead by <a href="mail
 
 ## Upcoming Events
 
-### Thursday, 27 March 2025
+### Thursday, 11 September 2025
 **Time**: 18:00 - 20:00 BST
 
-**Location**:  PwC 144 Morrison Street · Edinburgh
+**Location**:  Hays · 2 Lochrin Square · Edinburgh
 
-**Tickets**: Tickets are available on Meetup: [[https://www.meetup.com/owasp-scotland-chapter/events/303941386](https://www.meetup.com/owasp-scotland-chapter/events/306718027/).
+**Tickets**: Tickets are available on Meetup: [https://www.meetup.com/owasp-scotland-chapter/events/310636098/](https://www.meetup.com/owasp-scotland-chapter/events/310636098/).
 
 Join us at the OWASP Scotland Chapter Meeting where we have three talks lined up for our March session - see details below.
 
@@ -30,18 +30,14 @@ Pizza and drinks will be provided to the attendees.
 
 This event is perfect for software developers, ethical hackers, and cybersecurity enthusiasts interested in learning about the latest trends in cyber security.
 
-#### Talk 1 - Trojan Horsepower: Leveraging Power line Communication to Attack Electric Charging Stations
-**Speaker**: Peter Lewis - Ethical Hacking Center of Excellence, PwC
+#### Talk 1 - Everything Wrong with Dependency Track
+**Speaker**: Dr. Lionel Saliou
 
-As electric vehicles become integrated into government fleets, and Electric Vehicle Supply Equipment (EVSE) subsequently becomes critical national infrastructure,
-EVSE security is more relevant than ever. This talk introduces the basic technologies behind EV charging infrastructure, and two novel attack methods: one for scanning electric chargers using an unmodified consumer Ethernet power line adapter and another for launching a Denial of Service (DoS) attack with the same tool.
+A humorous look back on a project I conducted at my current employer that led to the use (or misuse some might say) of the OWASP flagship project: Dependency Track. This talk provides the context to these decisions and extracts nuggets of wisdom that I believe will be valuable to many security professionals.
 
-#### Talk 2 – Poor state of InfoSec tooling
-**Speaker**: Sean Wright
+**About the speaker:** My name is Dr. Lionel Saliou, Ph.D and I have nearly 2 decades of application security experience. In the past I may have written bugs to remain gainfully employed, nowadays, I am a recovering developer supporting development teams write better software.
 
-In this talk I'll cover the poor state of many of the security toolsets. Why we need to start holding vendors to account and why we need to look beyond the hype of tooling when choosing tools. This will be an interactive talk as well.
-
-#### Talk 3 – All these secrets...
+#### Talk 2 - Vulnerability Disclosure & Bug Bounty Programmes – The Good, the Bad and the Ugly [Revisited]
 **Speaker**: Rob Jansson
 
-In this talk, we'll explore the risks associated with the leakage of 'secrets', such as passwords, API keys, and more, within an organisation's integrations including version control systems, artifact repositories, CI / CD pipelines, chat apps and ticketing systems to name a few... We'll also dive into possible strategies and tools for detecting and preventing these vulnerabilities, to help safeguard your systems and organisation from external threat actors and malicious insiders.
+In this talk we’ll discuss the benefits and challenges of running both Vulnerability Disclosure and Bug Bounty programmes; and the different ways an organisation can run these. Are they actually that useful or are they just ‘security botox’ to look pretty on the outside…
