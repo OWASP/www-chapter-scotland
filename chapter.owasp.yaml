@@ -1,0 +1,25 @@
+currency: GBP
+leaders:
+  - name: Sean Wright
+    email: //sean.wright@owasp.org
+    github: SeanWrightSec
+  - name: Rob Jansson
+    email: //rob.jansson@owasp.org
+  - name: James Slaughter
+    email: //james.slaughter@owasp.org
+    github: slaughterjames
+location:
+  country: United Kingdom
+  country_code: GB
+  latitude: 52.8645129
+  longitude: -6.5446592
+name: OWASP Scotland
+repositories:
+  - name: www-chapter-scotland
+    url: https://github.com/OWASP/www-chapter-scotland
+    description: OWASP Foundation Web Repository
+tags:
+  - scotland
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-scotland
